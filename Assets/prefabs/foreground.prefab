@@ -60,7 +60,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4635377277385812793}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.5, y: -0.38, z: 0.29492188}
+  m_LocalPosition: {x: -0.5, y: -0.19, z: 0.29492188}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4635377277308221902}
@@ -217,7 +217,7 @@ PolygonCollider2D:
       - {x: -3.1999998, y: -2.1}
       - {x: -2.78, y: -2.1299999}
       - {x: -2.46, y: -2.1499999}
-      - {x: -2.25, y: -2.1599998}
+      - {x: -2.1673238, y: -2.1363735}
       - {x: -1.8, y: -2.1599998}
       - {x: -1.79, y: -2.1699998}
       - {x: 0.049999997, y: -2.1699998}
@@ -486,7 +486,7 @@ GameObject:
   - component: {fileID: 4635377277951687272}
   m_Layer: 0
   m_Name: env_TowerFull (1)
-  m_TagString: Untagged
+  m_TagString: wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -702,7 +702,7 @@ GameObject:
   - component: {fileID: 4635377278429746985}
   m_Layer: 0
   m_Name: env_TowerFull
-  m_TagString: Untagged
+  m_TagString: wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
