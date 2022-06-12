@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 4635377277385812742}
   m_Layer: 8
   m_Name: env_PlatformUfo
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -144,6 +144,7 @@ PolygonCollider2D:
     - - {x: 1.27, y: -2.1499999}
       - {x: 1.28, y: -2.1399999}
       - {x: 1.76, y: -2.1399999}
+      - {x: 1.8769414, y: -2.1370764}
       - {x: 2.1599998, y: -2.1299999}
       - {x: 2.49, y: -2.12}
       - {x: 2.78, y: -2.11}
@@ -179,9 +180,10 @@ PolygonCollider2D:
       - {x: 2.09, y: -0.37}
       - {x: 1.86, y: -0.29}
       - {x: 2.2936356, y: -0.45067155}
-      - {x: 1.56, y: -0.26}
-      - {x: 1.4599999, y: -0.26}
-      - {x: 1.4599999, y: -0.26999998}
+      - {x: 1.9381788, y: -0.34221256}
+      - {x: 2.6274223, y: -0.83548963}
+      - {x: 1.9532765, y: -0.30288523}
+      - {x: 0.5307389, y: -0.28956985}
       - {x: -1.56, y: -0.26999998}
       - {x: -1.77, y: -0.28}
       - {x: -1.9599999, y: -0.29999998}
@@ -237,7 +239,7 @@ GameObject:
   - component: {fileID: 4635377277390410495}
   m_Layer: 8
   m_Name: env_PlatformTop (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -294,7 +296,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -504518441
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: cb79cd56e8d2a1546b026a6b0655732c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -378,7 +380,7 @@ GameObject:
   - component: {fileID: 4635377277793372406}
   m_Layer: 8
   m_Name: env_PlatformBridge (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -435,7 +437,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -504518441
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 449b6299bf285a240bf4aba538b67136, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -543,7 +545,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -504518441
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 7c00ef1ccf8a7de44ad5d395840c4145, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -594,7 +596,7 @@ GameObject:
   - component: {fileID: 4635377278084351390}
   m_Layer: 8
   m_Name: env_PlatformTop
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -651,7 +653,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -504518441
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: cb79cd56e8d2a1546b026a6b0655732c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -759,7 +761,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -504518441
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 7c00ef1ccf8a7de44ad5d395840c4145, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -843,7 +845,7 @@ GameObject:
   - component: {fileID: 4635377278700195341}
   m_Layer: 8
   m_Name: env_PlatformBridge
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -900,7 +902,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -504518441
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 449b6299bf285a240bf4aba538b67136, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -963,8 +965,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4635377278701693621}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.62, y: -0.91, z: 0.29492188}
-  m_LocalScale: {x: 0.9, y: 0.77, z: 1}
+  m_LocalPosition: {x: -0.62, y: -0.82, z: 0.29492188}
+  m_LocalScale: {x: 1, y: 0.77, z: 0}
   m_Children: []
   m_Father: {fileID: 4635377277308221902}
   m_RootOrder: 1

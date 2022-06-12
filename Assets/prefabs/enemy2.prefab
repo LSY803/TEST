@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 848570229}
   m_Layer: 11
   m_Name: body
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -162,6 +162,8 @@ MonoBehaviour:
   HP: 2
   deadEnemy: {fileID: 21300000, guid: 6418e952fb4381e448b243e320d9dc02, type: 3}
   damagedEnemy: {fileID: 21300000, guid: ed6516cfaf122c345b1da11a35591056, type: 3}
+  deathClips: []
+  hundredPointsUI: {fileID: 0}
   deathSpinMin: -100
   deathSpinMax: 100
 --- !u!61 &487885086133672979

@@ -9,9 +9,9 @@ public class UIMannerger : MonoBehaviour
     {
         
     }
-    public void GamePause
+    public void GamePause()
     {
-        Debug.Log()
+        Debug.Log("  ");
     }
     // Update is called once per frame
     void Update()
